@@ -43,6 +43,7 @@ body {
     background-color: #CAD3C8;
     transform: scale(0.9);
     border-radius: 7px;
+    transition-duration: 4s;
 }
 
 .content-frame {
