@@ -36,17 +36,18 @@ h1 {
 }
 
 .menu li a {
-    color: #636e72;
+    color: white;
     font-weight: bold;
     text-decoration: none;
     display: block;
+    
 }
 
 .menu li a:hover {
     background-color: #CAD3C8;
     transform: scale(0.9);
     border-radius: 7px;
-    transition-duration: 4s;
+    transition-duration: 1s;
 }
 
 .content-frame {
